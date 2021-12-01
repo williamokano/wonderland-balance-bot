@@ -1,0 +1,26 @@
+{
+  "name": "wonderland-balance-bot",
+  "version": "0.0.1-alpha",
+  "description": "Simple wonderland utility bot",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/williamokano/wonderland-balance-bot.git"
+  },
+  "keywords": [
+    "wonderland",
+    "time",
+    "utility",
+    "bot",
+    "telegram"
+  ],
+  "author": "William Okano <williamokano@gmail.com>",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/williamokano/wonderland-balance-bot/issues"
+  },
+  "homepage": "https://github.com/williamokano/wonderland-balance-bot#readme"
+}
