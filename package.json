@@ -4,6 +4,7 @@
   "description": "Simple wonderland utility bot",
   "main": "src/index.js",
   "scripts": {
+    "start": "node src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/williamokano/wonderland-balance-bot/issues"
   },
-  "homepage": "https://github.com/williamokano/wonderland-balance-bot#readme"
+  "homepage": "https://github.com/williamokano/wonderland-balance-bot#readme",
+  "dependencies": {
+    "telegraf": "^4.4.2"
+  }
 }
